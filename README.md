@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SantiSou
-- 👀 I’m interested in developing funny games
+- 👀 I’m interested in developing fun games
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me: souto.santiago.mattias@gmail.com
 
